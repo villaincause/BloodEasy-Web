@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 242, 242, 0.61);
+    
+
+}
+.right-nav{
+    display: flex;
+    justify-content: left;
+    padding-left: 60%;
+    color: rgb(46, 46, 46);
+    outline-color: black;
+}
+.main-box{
+    width: 100%;
+    height: 110vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 5%;
+    background-image: url(./Images/download.png);
+    background-position: center;
+    background-size: cover;
+    color: rgb(46, 46, 46);
+}
+.big{
+    font-size: 50px; 
+    margin-left: 5%;
+    margin-bottom: 2%;
+
+}
+.small{
+    font-size: 20vw;
+    max-width: 80%; 
+}
+.donor-box{
+    width: 100%;
+    height: 80vh;
+}
+.donors{
+    background-color: rgb(161, 21, 21);
+    margin-top: -16px;
+}
+.banks{
+    background-color: white;
+}
+.textBank{
+    float: right;
+    text-align: right;
+    width: 50%;
+}
+.bFoot{
+    background-color: rgb(161, 21, 21);
+    padding: 2%;
+}
+.join{
+    height: 50px;
+    width: 150px;
+    margin-top: 40%;
+}
+footer{
+    background-color: rgb(12, 12, 12);
+    padding: 2%;
+}
+.last-img{
+    margin-left: -20%;
+}
+.us{
+    margin-left: -25%;
+}
+.link{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-left: -50%;
+    padding-left: 25%;
+}
+.link-items-1{
+    padding-right: 20%;
+}
+.link-items-2{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.link-items-3{
+    padding-left: 20%;
+}
