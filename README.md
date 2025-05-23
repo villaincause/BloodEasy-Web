@@ -17,4 +17,4 @@ This is just the preview version, it will keep getting updates in the future.
 
 ## Getting Started
 To get started with 'BloodEasy', follow these steps:
-Please click on: "[BloodEasy](https://villaincause.github.io/BloodEasy-Web/BloodEasy)" to see the actual website.
+Please click on: "[BloodEasy](https://villaincause.github.io/BloodEasy-Web/)" to see the actual website.
